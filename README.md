@@ -9,6 +9,9 @@ Just a sample implementation of a simple web server written in Go with Gorilla m
 
 -> Validated all incoming requests using middlewares and input validation using Go-Validator
 
--> Planning to add few more endpoints and building a docker image for this ,will try out sooon !
+-> Planning to add few more endpoints ,building a docker image for this and refactoring existing code will try out sooon !
 
 -> Don't forget to check .env.sample file for the format of environment variables 
+
+
+P.s Ignore the fmt.Println("") statements !
