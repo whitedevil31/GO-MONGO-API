@@ -14,4 +14,6 @@ Just a sample implementation of a simple web server written in Go with Gorilla m
 -> Don't forget to check .env.sample file for the format of environment variables 
 
 
+-> Postman collection for endpoints https://www.postman.com/collections/4370698b21d42f0e410b
+
 P.s Ignore the fmt.Println("") statements !
